@@ -1,0 +1,123 @@
+{
+  "mahasiswa" :[{
+  "id": 1,
+  "name": "Kerwin Bodker",
+  "gender": "Male"
+}, {
+  "id": 2,
+  "name": "Livy Stag",
+  "gender": "Female"
+}, {
+  "id": 3,
+  "name": "Jinny Rallin",
+  "gender": "Female"
+}, {
+  "id": 4,
+  "name": "Vern Gabbett",
+  "gender": "Male"
+}, {
+  "id": 5,
+  "name": "Emili Giovani",
+  "gender": "Female"
+}, {
+  "id": 6,
+  "name": "Langston Reiglar",
+  "gender": "Male"
+}, {
+  "id": 7,
+  "name": "Lydia Kasher",
+  "gender": "Female"
+}, {
+  "id": 8,
+  "name": "Koressa Berrey",
+  "gender": "Female"
+}, {
+  "id": 9,
+  "name": "Anastasie Rawcliffe",
+  "gender": "Female"
+}, {
+  "id": 10,
+  "name": "Eberto Tasseler",
+  "gender": "Male"
+}, {
+  "id": 11,
+  "name": "Merla Corballis",
+  "gender": "Female"
+}, {
+  "id": 12,
+  "name": "Nelie Filipiak",
+  "gender": "Female"
+}, {
+  "id": 13,
+  "name": "Griffie Pallatina",
+  "gender": "Male"
+}, {
+  "id": 14,
+  "name": "Rudolph Neilson",
+  "gender": "Male"
+}, {
+  "id": 15,
+  "name": "Crawford Slyme",
+  "gender": "Male"
+}, {
+  "id": 16,
+  "name": "Adey Culleford",
+  "gender": "Female"
+}, {
+  "id": 17,
+  "name": "Octavia Madsen",
+  "gender": "Female"
+}, {
+  "id": 18,
+  "name": "Glen Legging",
+  "gender": "Male"
+}, {
+  "id": 19,
+  "name": "Creighton Kemwall",
+  "gender": "Male"
+}, {
+  "id": 20,
+  "name": "Manda Kempston",
+  "gender": "Female"
+}, {
+  "id": 21,
+  "name": "Aluino Willows",
+  "gender": "Male"
+}, {
+  "id": 22,
+  "name": "Homere Ollet",
+  "gender": "Male"
+}, {
+  "id": 23,
+  "name": "Maria Normanville",
+  "gender": "Female"
+}, {
+  "id": 24,
+  "name": "Nichols Wankling",
+  "gender": "Male"
+}, {
+  "id": 25,
+  "name": "Terrell Jandel",
+  "gender": "Male"
+}, {
+  "id": 26,
+  "name": "Hobie Moors",
+  "gender": "Male"
+}, {
+  "id": 27,
+  "name": "Will Drummer",
+  "gender": "Male"
+}, {
+  "id": 28,
+  "name": "Law Clyma",
+  "gender": "Male"
+}, {
+  "id": 29,
+  "name": "Adrianna Perillio",
+  "gender": "Female"
+}, {
+  "id": 30,
+  "name": "Dirk Langrish",
+  "gender": "Male"
+}]
+}

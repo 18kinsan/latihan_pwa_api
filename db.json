@@ -1,403 +1,124 @@
 {
   "mahasiswa" : [{
+  [{
   "id": 1,
-  "name": "Sidnee Sumner",
+  "name": "Kerwin Bodker",
   "gender": "Male"
 }, {
   "id": 2,
-  "name": "Basile Niblo",
-  "gender": "Male"
+  "name": "Livy Stag",
+  "gender": "Female"
 }, {
   "id": 3,
-  "name": "Van Buckner",
-  "gender": "Male"
+  "name": "Jinny Rallin",
+  "gender": "Female"
 }, {
   "id": 4,
-  "name": "Aila Bartle",
-  "gender": "Female"
-}, {
-  "id": 5,
-  "name": "Sherlock Elix",
+  "name": "Vern Gabbett",
   "gender": "Male"
 }, {
-  "id": 6,
-  "name": "Shandra Aspling",
+  "id": 5,
+  "name": "Emili Giovani",
   "gender": "Female"
 }, {
+  "id": 6,
+  "name": "Langston Reiglar",
+  "gender": "Male"
+}, {
   "id": 7,
-  "name": "Tomasina Butterworth",
+  "name": "Lydia Kasher",
   "gender": "Female"
 }, {
   "id": 8,
-  "name": "Isabelita Lotwich",
+  "name": "Koressa Berrey",
   "gender": "Female"
 }, {
   "id": 9,
-  "name": "Terri Izod",
+  "name": "Anastasie Rawcliffe",
   "gender": "Female"
 }, {
   "id": 10,
-  "name": "Peadar Uttridge",
+  "name": "Eberto Tasseler",
   "gender": "Male"
 }, {
   "id": 11,
-  "name": "Sibyl Duigenan",
-  "gender": "Male"
+  "name": "Merla Corballis",
+  "gender": "Female"
 }, {
   "id": 12,
-  "name": "Mora Beneix",
+  "name": "Nelie Filipiak",
   "gender": "Female"
 }, {
   "id": 13,
-  "name": "Rosalind Sellman",
-  "gender": "Female"
+  "name": "Griffie Pallatina",
+  "gender": "Male"
 }, {
   "id": 14,
-  "name": "Benedikta Ciccetti",
-  "gender": "Female"
+  "name": "Rudolph Neilson",
+  "gender": "Male"
 }, {
   "id": 15,
-  "name": "Rickey Mahmood",
+  "name": "Crawford Slyme",
   "gender": "Male"
 }, {
   "id": 16,
-  "name": "Jerrilee Pinnick",
+  "name": "Adey Culleford",
   "gender": "Female"
 }, {
   "id": 17,
-  "name": "Hammad Goom",
-  "gender": "Male"
+  "name": "Octavia Madsen",
+  "gender": "Female"
 }, {
   "id": 18,
-  "name": "Morse Raithby",
+  "name": "Glen Legging",
   "gender": "Male"
 }, {
   "id": 19,
-  "name": "Laurette Tilio",
-  "gender": "Female"
+  "name": "Creighton Kemwall",
+  "gender": "Male"
 }, {
   "id": 20,
-  "name": "Karlyn Hargrave",
+  "name": "Manda Kempston",
   "gender": "Female"
 }, {
   "id": 21,
-  "name": "Addie Connell",
+  "name": "Aluino Willows",
   "gender": "Male"
 }, {
   "id": 22,
-  "name": "Gretta MacDonald",
-  "gender": "Female"
+  "name": "Homere Ollet",
+  "gender": "Male"
 }, {
   "id": 23,
-  "name": "Laurel Rye",
+  "name": "Maria Normanville",
   "gender": "Female"
 }, {
   "id": 24,
-  "name": "Rahal Alonso",
-  "gender": "Female"
+  "name": "Nichols Wankling",
+  "gender": "Male"
 }, {
   "id": 25,
-  "name": "Vladamir Bottoner",
+  "name": "Terrell Jandel",
   "gender": "Male"
 }, {
   "id": 26,
-  "name": "Mehetabel Glentworth",
-  "gender": "Female"
+  "name": "Hobie Moors",
+  "gender": "Male"
 }, {
   "id": 27,
-  "name": "Karleen Stucke",
-  "gender": "Female"
+  "name": "Will Drummer",
+  "gender": "Male"
 }, {
   "id": 28,
-  "name": "Dinny Henfre",
-  "gender": "Female"
+  "name": "Law Clyma",
+  "gender": "Male"
 }, {
   "id": 29,
-  "name": "Darbee Bromidge",
-  "gender": "Male"
+  "name": "Adrianna Perillio",
+  "gender": "Female"
 }, {
   "id": 30,
-  "name": "Deva Inderwick",
-  "gender": "Female"
-}, {
-  "id": 31,
-  "name": "Jermaine Japp",
-  "gender": "Female"
-}, {
-  "id": 32,
-  "name": "El Bellew",
-  "gender": "Male"
-}, {
-  "id": 33,
-  "name": "Sharlene Raiston",
-  "gender": "Female"
-}, {
-  "id": 34,
-  "name": "Marsh Midghall",
-  "gender": "Male"
-}, {
-  "id": 35,
-  "name": "Gerri Boribal",
-  "gender": "Male"
-}, {
-  "id": 36,
-  "name": "Anna-maria Olivari",
-  "gender": "Female"
-}, {
-  "id": 37,
-  "name": "Jolyn Villa",
-  "gender": "Female"
-}, {
-  "id": 38,
-  "name": "Milo Elsop",
-  "gender": "Male"
-}, {
-  "id": 39,
-  "name": "Linc Loines",
-  "gender": "Male"
-}, {
-  "id": 40,
-  "name": "Tyrus Bazoche",
-  "gender": "Male"
-}, {
-  "id": 41,
-  "name": "Aliza Hoppner",
-  "gender": "Female"
-}, {
-  "id": 42,
-  "name": "Philipa Grishukov",
-  "gender": "Female"
-}, {
-  "id": 43,
-  "name": "Kordula Pearton",
-  "gender": "Female"
-}, {
-  "id": 44,
-  "name": "Gabriellia Pohl",
-  "gender": "Female"
-}, {
-  "id": 45,
-  "name": "Saundra Asbery",
-  "gender": "Female"
-}, {
-  "id": 46,
-  "name": "Aeriela Nealey",
-  "gender": "Female"
-}, {
-  "id": 47,
-  "name": "Stearn Dorgon",
-  "gender": "Male"
-}, {
-  "id": 48,
-  "name": "Modesty Cutsforth",
-  "gender": "Female"
-}, {
-  "id": 49,
-  "name": "Osborne Waby",
-  "gender": "Male"
-}, {
-  "id": 50,
-  "name": "Freddie Huelin",
-  "gender": "Male"
-}, {
-  "id": 51,
-  "name": "Dawna Edgeson",
-  "gender": "Female"
-}, {
-  "id": 52,
-  "name": "Staci Stallwood",
-  "gender": "Female"
-}, {
-  "id": 53,
-  "name": "Tommi Hannaford",
-  "gender": "Female"
-}, {
-  "id": 54,
-  "name": "Kevan Trengrove",
-  "gender": "Male"
-}, {
-  "id": 55,
-  "name": "Albertine Dewi",
-  "gender": "Female"
-}, {
-  "id": 56,
-  "name": "Kim Eilers",
-  "gender": "Female"
-}, {
-  "id": 57,
-  "name": "Ethel Heckney",
-  "gender": "Female"
-}, {
-  "id": 58,
-  "name": "Isabelle Roads",
-  "gender": "Female"
-}, {
-  "id": 59,
-  "name": "Lonnard Hepher",
-  "gender": "Male"
-}, {
-  "id": 60,
-  "name": "Wileen Goudge",
-  "gender": "Female"
-}, {
-  "id": 61,
-  "name": "Shea Pleven",
-  "gender": "Female"
-}, {
-  "id": 62,
-  "name": "Tomasina Prudham",
-  "gender": "Female"
-}, {
-  "id": 63,
-  "name": "Ambros Graalman",
-  "gender": "Male"
-}, {
-  "id": 64,
-  "name": "Sanderson Martinson",
-  "gender": "Male"
-}, {
-  "id": 65,
-  "name": "Allison Zappel",
-  "gender": "Female"
-}, {
-  "id": 66,
-  "name": "Phip Blacksell",
-  "gender": "Male"
-}, {
-  "id": 67,
-  "name": "Frank Sange",
-  "gender": "Male"
-}, {
-  "id": 68,
-  "name": "Norri Repp",
-  "gender": "Female"
-}, {
-  "id": 69,
-  "name": "Sarah Summerlee",
-  "gender": "Female"
-}, {
-  "id": 70,
-  "name": "Timothee Terese",
-  "gender": "Male"
-}, {
-  "id": 71,
-  "name": "Ferris De Francisci",
-  "gender": "Male"
-}, {
-  "id": 72,
-  "name": "Lou Bamford",
-  "gender": "Male"
-}, {
-  "id": 73,
-  "name": "Barn Echalier",
-  "gender": "Male"
-}, {
-  "id": 74,
-  "name": "Shelia Dimeloe",
-  "gender": "Female"
-}, {
-  "id": 75,
-  "name": "Ly Maryman",
-  "gender": "Male"
-}, {
-  "id": 76,
-  "name": "Pam Thow",
-  "gender": "Female"
-}, {
-  "id": 77,
-  "name": "Yvette Nana",
-  "gender": "Female"
-}, {
-  "id": 78,
-  "name": "Donal Setter",
-  "gender": "Male"
-}, {
-  "id": 79,
-  "name": "Stavro Friedenbach",
-  "gender": "Male"
-}, {
-  "id": 80,
-  "name": "Zsazsa Agge",
-  "gender": "Female"
-}, {
-  "id": 81,
-  "name": "Foster Friedank",
-  "gender": "Male"
-}, {
-  "id": 82,
-  "name": "Agace Simukov",
-  "gender": "Female"
-}, {
-  "id": 83,
-  "name": "Adrian Basterfield",
-  "gender": "Female"
-}, {
-  "id": 84,
-  "name": "Ulrica Ferrea",
-  "gender": "Female"
-}, {
-  "id": 85,
-  "name": "Fawn Collyer",
-  "gender": "Female"
-}, {
-  "id": 86,
-  "name": "Dody Attaway",
-  "gender": "Female"
-}, {
-  "id": 87,
-  "name": "Dominick Lorenzin",
-  "gender": "Male"
-}, {
-  "id": 88,
-  "name": "Kelsey Brotherwood",
-  "gender": "Female"
-}, {
-  "id": 89,
-  "name": "Reinhard Graeber",
-  "gender": "Male"
-}, {
-  "id": 90,
-  "name": "Herc Skyrme",
-  "gender": "Male"
-}, {
-  "id": 91,
-  "name": "Cassius Allbrook",
-  "gender": "Male"
-}, {
-  "id": 92,
-  "name": "Thomasa Perrinchief",
-  "gender": "Female"
-}, {
-  "id": 93,
-  "name": "Carina Rickerby",
-  "gender": "Female"
-}, {
-  "id": 94,
-  "name": "Napoleon Bowkley",
-  "gender": "Male"
-}, {
-  "id": 95,
-  "name": "Tildy Vosper",
-  "gender": "Female"
-}, {
-  "id": 96,
-  "name": "Marie-ann Kittman",
-  "gender": "Female"
-}, {
-  "id": 97,
-  "name": "Deeyn Milillo",
-  "gender": "Female"
-}, {
-  "id": 98,
-  "name": "Francisca Poupard",
-  "gender": "Female"
-}, {
-  "id": 99,
-  "name": "Pearce Staniford",
-  "gender": "Male"
-}, {
-  "id": 100,
-  "name": "Gardner Quodling",
+  "name": "Dirk Langrish",
   "gender": "Male"
 }]
 }
